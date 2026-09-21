@@ -11,4 +11,4 @@ int main() {
     cout << "Salary: " << salary << endl;
 
     return 0;
-}
+} 
